@@ -1,5 +1,6 @@
 {
   "name": "egm",
+  "description": "Draft specs, review designs, and check implementation drift.",
   "owner": {
     "name": "Google"
   },
